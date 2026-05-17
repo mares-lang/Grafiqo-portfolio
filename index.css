@@ -1,0 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #250008 0%, #050505 60%);
+  background-attachment: fixed;
+}
